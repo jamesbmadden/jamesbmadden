@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m James!
-- 🏫 I'm studying computer engineering at mcgill.
+- 🏫 I'm studying computer engineering at McGill.
 - 👨🏼‍💻 I've built projects using js, ts, rust, and java.
 - 👀 I’m currently interested in graphics programming and emulators.
 
